@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c3708a2c-d792-4f19-9a60-072d8fde764c" name="Default" comment="" />
+    <list default="true" id="c3708a2c-d792-4f19-9a60-072d8fde764c" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Test.java" afterPath="$PROJECT_DIR$/src/Test.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/inventorymnagement/main/ArgentinaInventory.java" afterPath="$PROJECT_DIR$/src/com/inventorymnagement/main/ArgentinaInventory.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/inventorymnagement/main/BrazilInventory.java" afterPath="$PROJECT_DIR$/src/com/inventorymnagement/main/BrazilInventory.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/inventorymnagement/main/InsufficientQuantityException.java" afterPath="$PROJECT_DIR$/src/com/inventorymnagement/main/InsufficientQuantityException.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/inventorymnagement/main/Inventory.java" afterPath="$PROJECT_DIR$/src/com/inventorymnagement/main/Inventory.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/inventorymnagement/main/InventoryFactory.java" afterPath="$PROJECT_DIR$/src/com/inventorymnagement/main/InventoryFactory.java" />
+    </list>
     <ignored path="Inventory Management.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -27,14 +36,13 @@
         <entry file="file://$PROJECT_DIR$/src/com/inventorymnagement/main/ArgentinaInventory.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="75" column="1" selection-start-line="75" selection-start-column="1" selection-end-line="75" selection-end-column="1" />
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding>
                 <element signature="method#calculateMinimumPrice#0;class#ArgentinaInventory#0" expanded="false" />
                 <element signature="method#getPrice#0;class#ArgentinaInventory#0" expanded="false" />
                 <element signature="method#setPrice#0;class#ArgentinaInventory#0" expanded="false" />
                 <element signature="method#setQuantity#0;class#ArgentinaInventory#0" expanded="false" />
                 <element signature="method#getQuantity#0;class#ArgentinaInventory#0" expanded="false" />
-                <element signature="method#checkValidOrder#0;class#ArgentinaInventory#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -54,15 +62,22 @@
         <entry file="file://$PROJECT_DIR$/src/com/inventorymnagement/main/BrazilInventory.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="40" column="35" selection-start-line="40" selection-start-column="35" selection-end-line="40" selection-end-column="35" />
+              <caret line="115" column="0" selection-start-line="115" selection-start-column="0" selection-end-line="115" selection-end-column="0" />
               <folding>
+                <element signature="method#BrazilInventory#0;class#BrazilInventory#0" expanded="false" />
+                <element signature="method#placeOrder#0;class#BrazilInventory#0" expanded="false" />
+                <element signature="method#importItem#0;class#BrazilInventory#0" expanded="false" />
+                <element signature="method#calculateMinimumPrice#0;class#BrazilInventory#0" expanded="false" />
                 <element signature="method#setQuantity#0;class#BrazilInventory#0" expanded="false" />
                 <element signature="method#getQuantity#0;class#BrazilInventory#0" expanded="false" />
                 <element signature="method#setPrice#0;class#BrazilInventory#0" expanded="false" />
                 <element signature="method#getPrice#0;class#BrazilInventory#0" expanded="false" />
                 <element signature="method#priceInBazilAlone#0;class#BrazilInventory#0" expanded="false" />
                 <element signature="method#getImportQuanity#0;class#BrazilInventory#0" expanded="false" />
+                <element signature="method#canImport#0;class#BrazilInventory#0" expanded="false" />
                 <element signature="method#importItemPrice#0;class#BrazilInventory#0" expanded="false" />
+                <element signature="method#checkValidOrder#0;class#BrazilInventory#0" expanded="false" />
+                <element signature="method#stock#0;class#BrazilInventory#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -81,8 +96,8 @@
       <file leaf-file-name="Test.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="1.2623762">
-              <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+            <state vertical-scroll-proportion="0.5792079">
+              <caret line="33" column="38" selection-start-line="33" selection-start-column="38" selection-end-line="33" selection-end-column="38" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -130,10 +145,10 @@
         <option value="$PROJECT_DIR$/src/com/inventorymnagement/main/Argentina.java" />
         <option value="$PROJECT_DIR$/src/com/inventorymnagement/main/MainInventory.java" />
         <option value="$PROJECT_DIR$/src/com/inventorymnagement/main/InsufficientQuantityException.java" />
-        <option value="$PROJECT_DIR$/src/com/inventorymnagement/main/ArgentinaInventory.java" />
-        <option value="$PROJECT_DIR$/src/com/inventorymnagement/main/BrazilInventory.java" />
         <option value="$PROJECT_DIR$/src/com/inventorymnagement/main/InventoryFactory.java" />
         <option value="$PROJECT_DIR$/src/com/inventorymnagement/main/Inventory.java" />
+        <option value="$PROJECT_DIR$/src/com/inventorymnagement/main/BrazilInventory.java" />
+        <option value="$PROJECT_DIR$/src/com/inventorymnagement/main/ArgentinaInventory.java" />
         <option value="$PROJECT_DIR$/src/Test.java" />
       </list>
     </option>
@@ -188,7 +203,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Inventory Management" />
+              <option name="myItemId" value="InventoryManagementSystem" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -198,7 +213,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Inventory Management" />
+              <option name="myItemId" value="InventoryManagementSystem" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -212,7 +227,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Inventory Management" />
+              <option name="myItemId" value="InventoryManagementSystem" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -227,8 +242,8 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -240,26 +255,6 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager" selected="Application.Test">
-    <configuration default="false" name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value=".*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="Test" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Inventory Management" />
-      <envs />
-      <method />
-    </configuration>
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
@@ -682,14 +677,29 @@
     <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
       <method />
     </configuration>
+    <configuration default="false" name="Test" type="Application" factoryName="Application" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value=".*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Inventory Management" />
+      <envs />
+      <method />
+    </configuration>
     <list size="1">
       <item index="0" class="java.lang.String" itemvalue="Application.Test" />
     </list>
-    <recent_temporary>
-      <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="Application.Test" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="SvnConfiguration">
@@ -708,15 +718,17 @@
       <workItem from="1460659213335" duration="5434000" />
       <workItem from="1461000476010" duration="11518000" />
       <workItem from="1461346840111" duration="2156000" />
+      <workItem from="1461349573027" duration="1274000" />
+      <workItem from="1461351045744" duration="235000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30564000" />
+    <option name="totallyTimeSpent" value="32073000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1378" height="754" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -728,7 +740,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32919255" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24743025" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24743025" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -755,7 +767,9 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="antWorkspaceConfiguration">
@@ -766,6 +780,77 @@
     <entry file="file://$PROJECT_DIR$/src/com/inventorymnagement/main/ArgentinaInventory.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="method#calculateMinimumPrice#0;class#ArgentinaInventory#0" expanded="false" />
+            <element signature="method#getPrice#0;class#ArgentinaInventory#0" expanded="false" />
+            <element signature="method#setPrice#0;class#ArgentinaInventory#0" expanded="false" />
+            <element signature="method#setQuantity#0;class#ArgentinaInventory#0" expanded="false" />
+            <element signature="method#getQuantity#0;class#ArgentinaInventory#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/inventorymnagement/main/InsufficientQuantityException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="15" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/inventorymnagement/main/BrazilInventory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding>
+            <element signature="method#BrazilInventory#0;class#BrazilInventory#0" expanded="false" />
+            <element signature="method#placeOrder#0;class#BrazilInventory#0" expanded="false" />
+            <element signature="method#importItem#0;class#BrazilInventory#0" expanded="false" />
+            <element signature="method#calculateMinimumPrice#0;class#BrazilInventory#0" expanded="false" />
+            <element signature="method#setQuantity#0;class#BrazilInventory#0" expanded="false" />
+            <element signature="method#getQuantity#0;class#BrazilInventory#0" expanded="false" />
+            <element signature="method#setPrice#0;class#BrazilInventory#0" expanded="false" />
+            <element signature="method#getPrice#0;class#BrazilInventory#0" expanded="false" />
+            <element signature="method#priceInBazilAlone#0;class#BrazilInventory#0" expanded="false" />
+            <element signature="method#getImportQuanity#0;class#BrazilInventory#0" expanded="false" />
+            <element signature="method#canImport#0;class#BrazilInventory#0" expanded="false" />
+            <element signature="method#importItemPrice#0;class#BrazilInventory#0" expanded="false" />
+            <element signature="method#checkValidOrder#0;class#BrazilInventory#0" expanded="false" />
+            <element signature="method#stock#0;class#BrazilInventory#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/inventorymnagement/main/Inventory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/inventorymnagement/main/InventoryFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/inventorymnagement/main/ArgentinaInventory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
           <caret line="75" column="1" selection-start-line="75" selection-start-column="1" selection-end-line="75" selection-end-column="1" />
           <folding>
             <element signature="method#calculateMinimumPrice#0;class#ArgentinaInventory#0" expanded="false" />
@@ -773,7 +858,77 @@
             <element signature="method#setPrice#0;class#ArgentinaInventory#0" expanded="false" />
             <element signature="method#setQuantity#0;class#ArgentinaInventory#0" expanded="false" />
             <element signature="method#getQuantity#0;class#ArgentinaInventory#0" expanded="false" />
-            <element signature="method#checkValidOrder#0;class#ArgentinaInventory#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/inventorymnagement/main/InsufficientQuantityException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="15" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/inventorymnagement/main/BrazilInventory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="40" column="35" selection-start-line="40" selection-start-column="35" selection-end-line="40" selection-end-column="35" />
+          <folding>
+            <element signature="method#BrazilInventory#0;class#BrazilInventory#0" expanded="false" />
+            <element signature="method#placeOrder#0;class#BrazilInventory#0" expanded="false" />
+            <element signature="method#importItem#0;class#BrazilInventory#0" expanded="false" />
+            <element signature="method#calculateMinimumPrice#0;class#BrazilInventory#0" expanded="false" />
+            <element signature="method#setQuantity#0;class#BrazilInventory#0" expanded="false" />
+            <element signature="method#getQuantity#0;class#BrazilInventory#0" expanded="false" />
+            <element signature="method#setPrice#0;class#BrazilInventory#0" expanded="false" />
+            <element signature="method#getPrice#0;class#BrazilInventory#0" expanded="false" />
+            <element signature="method#priceInBazilAlone#0;class#BrazilInventory#0" expanded="false" />
+            <element signature="method#getImportQuanity#0;class#BrazilInventory#0" expanded="false" />
+            <element signature="method#canImport#0;class#BrazilInventory#0" expanded="false" />
+            <element signature="method#importItemPrice#0;class#BrazilInventory#0" expanded="false" />
+            <element signature="method#checkValidOrder#0;class#BrazilInventory#0" expanded="false" />
+            <element signature="method#stock#0;class#BrazilInventory#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/inventorymnagement/main/Inventory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/inventorymnagement/main/InventoryFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/inventorymnagement/main/ArgentinaInventory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="75" column="1" selection-start-line="75" selection-start-column="1" selection-end-line="75" selection-end-column="1" />
+          <folding>
+            <element signature="method#calculateMinimumPrice#0;class#ArgentinaInventory#0" expanded="false" />
+            <element signature="method#getPrice#0;class#ArgentinaInventory#0" expanded="false" />
+            <element signature="method#setPrice#0;class#ArgentinaInventory#0" expanded="false" />
+            <element signature="method#setQuantity#0;class#ArgentinaInventory#0" expanded="false" />
+            <element signature="method#getQuantity#0;class#ArgentinaInventory#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -791,13 +946,20 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="40" column="35" selection-start-line="40" selection-start-column="35" selection-end-line="40" selection-end-column="35" />
           <folding>
+            <element signature="method#BrazilInventory#0;class#BrazilInventory#0" expanded="false" />
+            <element signature="method#placeOrder#0;class#BrazilInventory#0" expanded="false" />
+            <element signature="method#importItem#0;class#BrazilInventory#0" expanded="false" />
+            <element signature="method#calculateMinimumPrice#0;class#BrazilInventory#0" expanded="false" />
             <element signature="method#setQuantity#0;class#BrazilInventory#0" expanded="false" />
             <element signature="method#getQuantity#0;class#BrazilInventory#0" expanded="false" />
             <element signature="method#setPrice#0;class#BrazilInventory#0" expanded="false" />
             <element signature="method#getPrice#0;class#BrazilInventory#0" expanded="false" />
             <element signature="method#priceInBazilAlone#0;class#BrazilInventory#0" expanded="false" />
             <element signature="method#getImportQuanity#0;class#BrazilInventory#0" expanded="false" />
+            <element signature="method#canImport#0;class#BrazilInventory#0" expanded="false" />
             <element signature="method#importItemPrice#0;class#BrazilInventory#0" expanded="false" />
+            <element signature="method#checkValidOrder#0;class#BrazilInventory#0" expanded="false" />
+            <element signature="method#stock#0;class#BrazilInventory#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -830,7 +992,6 @@
             <element signature="method#setPrice#0;class#ArgentinaInventory#0" expanded="false" />
             <element signature="method#setQuantity#0;class#ArgentinaInventory#0" expanded="false" />
             <element signature="method#getQuantity#0;class#ArgentinaInventory#0" expanded="false" />
-            <element signature="method#checkValidOrder#0;class#ArgentinaInventory#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -840,13 +1001,20 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="37" column="5" selection-start-line="37" selection-start-column="5" selection-end-line="37" selection-end-column="5" />
           <folding>
+            <element signature="method#BrazilInventory#0;class#BrazilInventory#0" expanded="false" />
+            <element signature="method#placeOrder#0;class#BrazilInventory#0" expanded="false" />
+            <element signature="method#importItem#0;class#BrazilInventory#0" expanded="false" />
+            <element signature="method#calculateMinimumPrice#0;class#BrazilInventory#0" expanded="false" />
             <element signature="method#setQuantity#0;class#BrazilInventory#0" expanded="false" />
             <element signature="method#getQuantity#0;class#BrazilInventory#0" expanded="false" />
             <element signature="method#setPrice#0;class#BrazilInventory#0" expanded="false" />
             <element signature="method#getPrice#0;class#BrazilInventory#0" expanded="false" />
             <element signature="method#priceInBazilAlone#0;class#BrazilInventory#0" expanded="false" />
             <element signature="method#getImportQuanity#0;class#BrazilInventory#0" expanded="false" />
+            <element signature="method#canImport#0;class#BrazilInventory#0" expanded="false" />
             <element signature="method#importItemPrice#0;class#BrazilInventory#0" expanded="false" />
+            <element signature="method#checkValidOrder#0;class#BrazilInventory#0" expanded="false" />
+            <element signature="method#stock#0;class#BrazilInventory#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -871,7 +1039,6 @@
             <element signature="method#setPrice#0;class#ArgentinaInventory#0" expanded="false" />
             <element signature="method#setQuantity#0;class#ArgentinaInventory#0" expanded="false" />
             <element signature="method#getQuantity#0;class#ArgentinaInventory#0" expanded="false" />
-            <element signature="method#checkValidOrder#0;class#ArgentinaInventory#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -881,13 +1048,20 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
+            <element signature="method#BrazilInventory#0;class#BrazilInventory#0" expanded="false" />
+            <element signature="method#placeOrder#0;class#BrazilInventory#0" expanded="false" />
+            <element signature="method#importItem#0;class#BrazilInventory#0" expanded="false" />
+            <element signature="method#calculateMinimumPrice#0;class#BrazilInventory#0" expanded="false" />
             <element signature="method#setQuantity#0;class#BrazilInventory#0" expanded="false" />
             <element signature="method#getQuantity#0;class#BrazilInventory#0" expanded="false" />
             <element signature="method#setPrice#0;class#BrazilInventory#0" expanded="false" />
             <element signature="method#getPrice#0;class#BrazilInventory#0" expanded="false" />
             <element signature="method#priceInBazilAlone#0;class#BrazilInventory#0" expanded="false" />
             <element signature="method#getImportQuanity#0;class#BrazilInventory#0" expanded="false" />
+            <element signature="method#canImport#0;class#BrazilInventory#0" expanded="false" />
             <element signature="method#importItemPrice#0;class#BrazilInventory#0" expanded="false" />
+            <element signature="method#checkValidOrder#0;class#BrazilInventory#0" expanded="false" />
+            <element signature="method#stock#0;class#BrazilInventory#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -919,7 +1093,6 @@
             <element signature="method#setPrice#0;class#ArgentinaInventory#0" expanded="false" />
             <element signature="method#setQuantity#0;class#ArgentinaInventory#0" expanded="false" />
             <element signature="method#getQuantity#0;class#ArgentinaInventory#0" expanded="false" />
-            <element signature="method#checkValidOrder#0;class#ArgentinaInventory#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -929,13 +1102,20 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
+            <element signature="method#BrazilInventory#0;class#BrazilInventory#0" expanded="false" />
+            <element signature="method#placeOrder#0;class#BrazilInventory#0" expanded="false" />
+            <element signature="method#importItem#0;class#BrazilInventory#0" expanded="false" />
+            <element signature="method#calculateMinimumPrice#0;class#BrazilInventory#0" expanded="false" />
             <element signature="method#setQuantity#0;class#BrazilInventory#0" expanded="false" />
             <element signature="method#getQuantity#0;class#BrazilInventory#0" expanded="false" />
             <element signature="method#setPrice#0;class#BrazilInventory#0" expanded="false" />
             <element signature="method#getPrice#0;class#BrazilInventory#0" expanded="false" />
             <element signature="method#priceInBazilAlone#0;class#BrazilInventory#0" expanded="false" />
             <element signature="method#getImportQuanity#0;class#BrazilInventory#0" expanded="false" />
+            <element signature="method#canImport#0;class#BrazilInventory#0" expanded="false" />
             <element signature="method#importItemPrice#0;class#BrazilInventory#0" expanded="false" />
+            <element signature="method#checkValidOrder#0;class#BrazilInventory#0" expanded="false" />
+            <element signature="method#stock#0;class#BrazilInventory#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -960,7 +1140,6 @@
             <element signature="method#setPrice#0;class#ArgentinaInventory#0" expanded="false" />
             <element signature="method#setQuantity#0;class#ArgentinaInventory#0" expanded="false" />
             <element signature="method#getQuantity#0;class#ArgentinaInventory#0" expanded="false" />
-            <element signature="method#checkValidOrder#0;class#ArgentinaInventory#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -970,13 +1149,20 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
+            <element signature="method#BrazilInventory#0;class#BrazilInventory#0" expanded="false" />
+            <element signature="method#placeOrder#0;class#BrazilInventory#0" expanded="false" />
+            <element signature="method#importItem#0;class#BrazilInventory#0" expanded="false" />
+            <element signature="method#calculateMinimumPrice#0;class#BrazilInventory#0" expanded="false" />
             <element signature="method#setQuantity#0;class#BrazilInventory#0" expanded="false" />
             <element signature="method#getQuantity#0;class#BrazilInventory#0" expanded="false" />
             <element signature="method#setPrice#0;class#BrazilInventory#0" expanded="false" />
             <element signature="method#getPrice#0;class#BrazilInventory#0" expanded="false" />
             <element signature="method#priceInBazilAlone#0;class#BrazilInventory#0" expanded="false" />
             <element signature="method#getImportQuanity#0;class#BrazilInventory#0" expanded="false" />
+            <element signature="method#canImport#0;class#BrazilInventory#0" expanded="false" />
             <element signature="method#importItemPrice#0;class#BrazilInventory#0" expanded="false" />
+            <element signature="method#checkValidOrder#0;class#BrazilInventory#0" expanded="false" />
+            <element signature="method#stock#0;class#BrazilInventory#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -998,17 +1184,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/inventorymnagement/main/InventoryFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/inventorymnagement/main/ArgentinaInventory.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="75" column="1" selection-start-line="75" selection-start-column="1" selection-end-line="75" selection-end-column="1" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="method#calculateMinimumPrice#0;class#ArgentinaInventory#0" expanded="false" />
             <element signature="method#getPrice#0;class#ArgentinaInventory#0" expanded="false" />
             <element signature="method#setPrice#0;class#ArgentinaInventory#0" expanded="false" />
             <element signature="method#setQuantity#0;class#ArgentinaInventory#0" expanded="false" />
             <element signature="method#getQuantity#0;class#ArgentinaInventory#0" expanded="false" />
-            <element signature="method#checkValidOrder#0;class#ArgentinaInventory#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1024,15 +1217,22 @@
     <entry file="file://$PROJECT_DIR$/src/com/inventorymnagement/main/BrazilInventory.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="40" column="35" selection-start-line="40" selection-start-column="35" selection-end-line="40" selection-end-column="35" />
+          <caret line="115" column="0" selection-start-line="115" selection-start-column="0" selection-end-line="115" selection-end-column="0" />
           <folding>
+            <element signature="method#BrazilInventory#0;class#BrazilInventory#0" expanded="false" />
+            <element signature="method#placeOrder#0;class#BrazilInventory#0" expanded="false" />
+            <element signature="method#importItem#0;class#BrazilInventory#0" expanded="false" />
+            <element signature="method#calculateMinimumPrice#0;class#BrazilInventory#0" expanded="false" />
             <element signature="method#setQuantity#0;class#BrazilInventory#0" expanded="false" />
             <element signature="method#getQuantity#0;class#BrazilInventory#0" expanded="false" />
             <element signature="method#setPrice#0;class#BrazilInventory#0" expanded="false" />
             <element signature="method#getPrice#0;class#BrazilInventory#0" expanded="false" />
             <element signature="method#priceInBazilAlone#0;class#BrazilInventory#0" expanded="false" />
             <element signature="method#getImportQuanity#0;class#BrazilInventory#0" expanded="false" />
+            <element signature="method#canImport#0;class#BrazilInventory#0" expanded="false" />
             <element signature="method#importItemPrice#0;class#BrazilInventory#0" expanded="false" />
+            <element signature="method#checkValidOrder#0;class#BrazilInventory#0" expanded="false" />
+            <element signature="method#stock#0;class#BrazilInventory#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1045,18 +1245,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/inventorymnagement/main/InventoryFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.2623762">
-          <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+        <state vertical-scroll-proportion="0.5792079">
+          <caret line="33" column="38" selection-start-line="33" selection-start-column="38" selection-end-line="33" selection-end-column="38" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

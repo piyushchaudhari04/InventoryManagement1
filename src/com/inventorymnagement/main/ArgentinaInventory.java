@@ -23,7 +23,8 @@ public class ArgentinaInventory implements Inventory {
         }
         else{
 
-            throw new InsufficientQuantityException("InsufficientQuantitExcpetion");
+            //System.out.println("InsufficientQuantityExcpetion");
+            throw new InsufficientQuantityException("InsufficientQuantityExcpetion");
         }
     }
     public void exportItem(int expoQuantity) throws InsufficientQuantityException {

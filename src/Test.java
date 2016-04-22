@@ -29,6 +29,9 @@ public class Test {
                 System.out.print(inventory.calculateMinimumPrice()+" "+inventory.stock()+" "+inventory.stock());
 
             }
-            catch (InsufficientQuantityException e){}
+            catch (InsufficientQuantityException e){
+
+                System.out.println(e);
+            }
     }
 }

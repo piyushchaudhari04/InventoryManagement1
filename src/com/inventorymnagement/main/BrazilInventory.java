@@ -88,7 +88,14 @@ public class BrazilInventory implements Inventory{
     }
     public int canImport(int quantity){
 
-        return quantity-quantity%10;
+        if(quantity>100){
+
+            return 100;
+        }
+
+        else {
+            return quantity - quantity % 10;
+        }
     }
     public int importItemPrice(int quantity){
 
